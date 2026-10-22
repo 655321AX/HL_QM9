@@ -1,0 +1,10 @@
+# versions tested on the author's machine (Python 3.13/3.14)
+rdkit==2026.3.2
+scikit-learn==1.8.0
+lightgbm==4.7.0
+numpy==2.4.3
+pandas==3.0.1
+pyarrow==25.0.1
+scipy==1.17.1
+matplotlib==3.10.8
+joblib==1.5.3
